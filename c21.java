@@ -5,7 +5,7 @@ public class c21{
         Scanner input= new Scanner(System.in);
         System.out.println("輸入成績1");
         grade= input.nextInt();
-        if(grade>=101&grade<=109){
+        if(grade>=101|grade<0){
             System.out.println("不要亂打北七");
         }
         else{
