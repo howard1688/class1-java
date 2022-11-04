@@ -1,0 +1,6 @@
+輸入輸出
+javac -encoding utf-8 xxx.java
+java xxx.java
+鍵盤讀取輸入的值判斷成績
+印星星
+99*法
