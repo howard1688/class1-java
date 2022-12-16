@@ -1,0 +1,13 @@
+int []data=new int[7];
+int data[]=new int[7];
+int[] data ={1,2,3};
+int[] data;
+data=new int[7];
+int[3] data;//X
+int [] data1,data2;
+int data1[],data2;
+apq;wlsodiekrjfugyth
+apq;wlsodiekrjfuygth
+apq;wlsoidekrjfuygth
+ap;qlwsodiekrjufgyth
+apq;wlsodiekrjfugyth
