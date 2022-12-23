@@ -4,6 +4,9 @@ public class test1{
 		int[] arr={7,5,4,9,8,1,2};
 		int[] flag=new int[arr.length];
 		float[] ha=new float[arr.length];
+		if (arr.length%2==0){
+			arr[arr.length+1]=arr[arr.length];
+		}
 		int mid=0;
 		int fg=1;
 		int num=0;
