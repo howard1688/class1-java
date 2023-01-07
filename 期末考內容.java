@@ -43,6 +43,22 @@ public class test1{
     }
 }
 3.用涵式(副程式)產生一個亂數，介於某個範圍
-
+import java.security.SecureRandom;
+import java.util.Scanner;
+public class test1{
+	public static void main(String[] args){
+        int num=0,te=0;
+        Scanner input= new Scanner(System.in);
+        num= input.nextInt();
+        num=ran(num);
+        System.out.println(num);
+    }
+    public static int ran(int num){
+        int r = 0;
+        r =(int)(Math.random()*num+1);
+        
+        return r;
+    }
+}
 4.保留題(?)
 5.期中考 考過的 ~~幹題~~
